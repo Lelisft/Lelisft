@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 📚 Sou estudante de Engenharia da Computação, atualmente estou no 8 Período<br>💻 Minha meta é se tornar um Desenvolvedor Full Stack, atualmente dedico meus estudos em Java, JavaScript e Python<br>👨🏻‍🏫 Tenho experiências com Delphi, SQL Server, Postgree, MongoDB e Desenvolvimento de aplicativos em Java<br>👨🏻‍💻 Estou a procura de Estágios na área de programação
 
 
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lelisft&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lelisft&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Frase do dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---

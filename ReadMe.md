@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-📚 Sou estudante de Engenharia da Computação, atualmente estou no 8 Período<br>💻 Minha meta é se tornar um Desenvolvedor Full Stack, atualmente dedico meus estudos em Java, JavaScript e Python<br>👨🏻‍🏫 Tenho experiências com Delphi, SQL Server, Postgree, MongoDB e Desenvolvimento de aplicativos em Java<br>👨🏻‍💻 Estou a procura de Estágios na área de programação
+📚 Sou estudante de Engenharia da Computação, atualmente estou no 8 Período<br>💻 Minha meta é se tornar um Desenvolvedor Full Stack, atualmente dedico meus estudos em Java, JavaScript, Quazar e Python<br>👨🏻‍🏫 Tenho experiências com Delphi, SQL Server, Postgree, MongoDB e Desenvolvimento de aplicativos em Java<br>👨🏻‍💻 Estou a procura de Estágios na área de programação
 
 
 ## 🌐 Socials:

@@ -1,5 +1,9 @@
 # 💫 Sobre mim:
-📚 Sou estudante de Engenharia da Computação, atualmente estou no 8 Período<br>💻 Minha meta é se tornar um Desenvolvedor Full Stack, atualmente dedico meus estudos em Java, JavaScript, Quazar e Python<br>👨🏻‍🏫 Tenho experiências com Delphi, SQL Server, Postgree, MongoDB e Desenvolvimento de aplicativos em Java<br>👨🏻‍💻 Estou a procura de Estágios na área de programação
+📚 Desenvolvedor Full Stack Pleno
+💻 Especializado em PHP, com experiência sólida em Laravel e Livewire para criação de aplicações modernas, escaláveis e performáticas
+🗄️ Forte atuação em Oracle SQL, com foco em queries complexas, modelagem de dados e otimização de desempenho
+👨🏻‍💻 Vivência com integração de sistemas, desenvolvimento de painéis administrativos e soluções personalizadas para diferentes áreas de negócio
+🚀 Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e aplicar boas práticas de desenvolvimento para gerar valor aos projetos
 
 
 ## 🌐 Socials:

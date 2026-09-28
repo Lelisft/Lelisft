@@ -1,10 +1,12 @@
 # 💫 Sobre mim:
 📚 Desenvolvedor Full Stack
-💻 Especializado em PHP, com experiência sólida em Laravel e Livewire para criação de aplicações modernas, escaláveis e performáticas
-🗄️ Forte atuação em Oracle SQL, com foco em queries complexas, modelagem de dados e otimização de desempenho
-👨🏻‍💻 Vivência com integração de sistemas, desenvolvimento de painéis administrativos e soluções personalizadas para diferentes áreas de negócio
-🚀 Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e aplicar boas práticas de desenvolvimento para gerar valor aos projetos
-
+💻 Experiência sólida com PHP, Laravel e Livewire, atuando no desenvolvimento de aplicações web modernas, escaláveis e performáticas
+📱 Experiência com React Native, desenvolvendo aplicações mobile para Android e iOS, além de integrações com APIs e serviços externos
+🔗 Forte atuação no desenvolvimento e integração de APIs REST, sistemas corporativos e soluções personalizadas para diferentes áreas de negócio
+🗄️ Experiência com bancos de dados SQL e NoSQL, incluindo Oracle, SQL Server, MySQL, PostgreSQL e MongoDB, com foco em modelagem, queries complexas e otimização de desempenho
+⚙️ Vivência com JavaScript, TypeScript, Tailwind CSS, Firebase, Git/GitHub e arquiteturas baseadas em MVC, DDD e princípios SOLID
+🤖 Experiência com ferramentas e soluções baseadas em Inteligência Artificial, incluindo LLMs, agentes de IA e ferramentas de apoio ao desenvolvimento
+🚀 Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades, aplicar boas práticas de engenharia de software e transformar necessidades de negócio em soluções eficientes e de valor
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/R3UFn5dn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lelis_ft/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thiago-lelis-a2585b186) 

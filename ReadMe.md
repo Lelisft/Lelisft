@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-📚 Desenvolvedor Full Stack Pleno
+📚 Desenvolvedor Full Stack
 💻 Especializado em PHP, com experiência sólida em Laravel e Livewire para criação de aplicações modernas, escaláveis e performáticas
 🗄️ Forte atuação em Oracle SQL, com foco em queries complexas, modelagem de dados e otimização de desempenho
 👨🏻‍💻 Vivência com integração de sistemas, desenvolvimento de painéis administrativos e soluções personalizadas para diferentes áreas de negócio
